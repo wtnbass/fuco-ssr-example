@@ -13,7 +13,7 @@
     "dev:client": "webpack --watch"
   },
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.17.3",
     "fuco": "2.0.0-next.0"
   },
   "devDependencies": {
